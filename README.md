@@ -1,5 +1,11 @@
-### Hi there 👋
-### Check out my website https://qwafee.app 
+### Hi there 👋 
+
+---
+
+Please feel free to check out my projects!
+
+
+---
 
 <!--
 ❕Welcome to my Profile❕
