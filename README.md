@@ -4,12 +4,7 @@
 
 Please feel free to check out my projects!
 
-
 ---
-
-Hackkerank : https://www.hackerrank.com/DevonCowherd
----
-
 <!--
 ❕Welcome to my Profile❕
 
